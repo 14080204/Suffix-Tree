@@ -1,0 +1,10 @@
+-> Running time of ST construction (in microseconds): 58839
+-> Internal nodes: 2471
+-> Leaves: 3844
+-> Nodes total: 6315
+-> Size of tree (in Bytes): 151560
+-> Average string-depth of internal nodes: 1.3417
+-> String-depth of deepest internal node: 8
+-> Length of longest exact matching repeat (deepest internal node): 8
+-> Longest exact matching repeated times: 2
+-> Start coordinates of each occurrence of longest exact match (indexing from 0): { 1167 2985 }
